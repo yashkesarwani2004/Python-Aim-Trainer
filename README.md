@@ -1,14 +1,63 @@
-# Python-Aim-Trainer
+# 🎯 Python Aim Trainer
 
-# 💻 Launch Your Software Development Career Today!  
+A simple and interactive **Aim Trainer game** built using **Python and Pygame**. The game helps users improve their mouse targeting and reaction skills by clicking on randomly generated targets.
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+## 🚀 Features
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+* 🎯 Random target generation
+* 🖱️ Mouse-based target interaction
+* ⏱️ Timer-based gameplay
+* 🏆 Score tracking
+* 🎮 Simple and interactive game interface
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+## 🛠️ Technologies Used
+
+* **Python**
+* **Pygame**
+
+## 📂 Project Structure
+
+```text
+Python-Aim-Trainer/
+│
+├── tutorial.py
+├── README.md
+└── .gitignore
+```
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yashkesarwani2004/Python-Aim-Trainer.git
+```
+
+2. Go to the project folder:
+
+```bash
+cd Python-Aim-Trainer
+```
+
+3. Install Pygame:
+
+```bash
+pip install pygame-ce
+```
+
+4. Run the game:
+
+```bash
+python tutorial.py
+```
+
+## 📌 Project Purpose
+
+This project was created to practice **Python programming, Pygame, event handling, mouse interaction, and basic game development concepts**.
+
+## 👨‍💻 Author
+
+**Yash Kesarwani**
+
+GitHub: https://github.com/yashkesarwani2004
+LinkedIn: https://linkedin.com/in/yash-kesarwani-035267373/
